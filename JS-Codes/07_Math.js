@@ -1,5 +1,5 @@
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
-
+//all the math operation are practiced like min,max,floor,etc.
 console.log(Math);
 console.log(Math.abs(-4));
 console.log(Math.round(4.6));
