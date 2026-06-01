@@ -9,6 +9,6 @@ if (true) {
 
 
 
-console.log(a);//here the output will 300
+console.log(a); //here the output will 300
 //console.log(b); here b can't be access outside the scope
-console.log(c);//Output:300
+console.log(c); //Output:300
